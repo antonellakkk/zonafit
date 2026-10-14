@@ -1,0 +1,2294 @@
+{
+  "squat": [
+    {
+      "id": "abs/potty-squat",
+      "slug": "potty-squat",
+      "name": "Sentadilla potty",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/potty-squat.gif"
+    },
+    {
+      "id": "biceps/cable-squatting-curl",
+      "slug": "cable-squatting-curl",
+      "name": "Curl en polea, en cuclillas",
+      "equipment": "cable",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/biceps/cable-squatting-curl.gif"
+    },
+    {
+      "id": "biceps/dumbbell-biceps-curl-squat",
+      "slug": "dumbbell-biceps-curl-squat",
+      "name": "Sentadilla con mancuerna, biceps-curl",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/biceps/dumbbell-biceps-curl-squat.gif"
+    },
+    {
+      "id": "calves/lever-seated-squat-calf-raise-on-leg-press-machine",
+      "slug": "lever-seated-squat-calf-raise-on-leg-press-machine",
+      "name": "Elevación de talones en máquina, sentado, en prensa de piernas, sentadilla",
+      "equipment": "lever",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/calves/lever-seated-squat-calf-raise-on-leg-press-machine.gif"
+    },
+    {
+      "id": "cardio/semi-squat-jump-male",
+      "slug": "semi-squat-jump-male",
+      "name": "Sentadilla, semi jump",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/semi-squat-jump-male.gif"
+    },
+    {
+      "id": "glutes/band-squat-row",
+      "slug": "band-squat-row",
+      "name": "Sentadilla con remo en banda",
+      "equipment": "band",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/band-squat-row.gif"
+    },
+    {
+      "id": "glutes/band-squat",
+      "slug": "band-squat",
+      "name": "Sentadilla con banda",
+      "equipment": "band",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/band-squat.gif"
+    },
+    {
+      "id": "glutes/barbell-clean-grip-front-squat",
+      "slug": "barbell-clean-grip-front-squat",
+      "name": "Sentadilla frontal con agarre de cargada con barra",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-clean-grip-front-squat.gif"
+    },
+    {
+      "id": "glutes/barbell-front-chest-squat",
+      "slug": "barbell-front-chest-squat",
+      "name": "Sentadilla con barra, frontal, pecho",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-front-chest-squat.gif"
+    },
+    {
+      "id": "glutes/barbell-front-squat",
+      "slug": "barbell-front-squat",
+      "name": "Sentadilla frontal con barra",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-front-squat.gif"
+    },
+    {
+      "id": "glutes/barbell-full-squat-back-pov",
+      "slug": "barbell-full-squat-back-pov",
+      "name": "Sentadilla completa con barra",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-full-squat-back-pov.gif"
+    },
+    {
+      "id": "glutes/barbell-full-squat-side-pov",
+      "slug": "barbell-full-squat-side-pov",
+      "name": "Sentadilla completa con barra, vista lateral",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-full-squat-side-pov.gif"
+    },
+    {
+      "id": "glutes/barbell-full-squat",
+      "slug": "barbell-full-squat",
+      "name": "Sentadilla completa con barra",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-full-squat.gif"
+    },
+    {
+      "id": "glutes/barbell-full-zercher-squat",
+      "slug": "barbell-full-zercher-squat",
+      "name": "Sentadilla zercher completa con barra",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-full-zercher-squat.gif"
+    },
+    {
+      "id": "glutes/barbell-hack-squat",
+      "slug": "barbell-hack-squat",
+      "name": "Hack squat con barra",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-hack-squat.gif"
+    },
+    {
+      "id": "glutes/barbell-high-bar-squat",
+      "slug": "barbell-high-bar-squat",
+      "name": "Sentadilla con barra, alto",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-high-bar-squat.gif"
+    },
+    {
+      "id": "glutes/barbell-jefferson-squat",
+      "slug": "barbell-jefferson-squat",
+      "name": "Sentadilla con barra, jefferson",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-jefferson-squat.gif"
+    },
+    {
+      "id": "glutes/barbell-jump-squat",
+      "slug": "barbell-jump-squat",
+      "name": "Sentadilla con salto con barra",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-jump-squat.gif"
+    },
+    {
+      "id": "glutes/barbell-low-bar-squat",
+      "slug": "barbell-low-bar-squat",
+      "name": "Sentadilla con barra",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-low-bar-squat.gif"
+    },
+    {
+      "id": "glutes/barbell-narrow-stance-squat",
+      "slug": "barbell-narrow-stance-squat",
+      "name": "Sentadilla con barra, estrecho",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-narrow-stance-squat.gif"
+    },
+    {
+      "id": "glutes/barbell-speed-squat",
+      "slug": "barbell-speed-squat",
+      "name": "Sentadilla con barra, speed",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-speed-squat.gif"
+    },
+    {
+      "id": "glutes/barbell-zercher-squat",
+      "slug": "barbell-zercher-squat",
+      "name": "Sentadilla zercher con barra",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-zercher-squat.gif"
+    },
+    {
+      "id": "glutes/bodyweight-drop-jump-squat",
+      "slug": "bodyweight-drop-jump-squat",
+      "name": "Sentadilla con salto con peso corporal, drop",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/bodyweight-drop-jump-squat.gif"
+    },
+    {
+      "id": "glutes/curtsey-squat",
+      "slug": "curtsey-squat",
+      "name": "Sentadilla, curtsey",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/curtsey-squat.gif"
+    },
+    {
+      "id": "glutes/dumbbell-bench-squat",
+      "slug": "dumbbell-bench-squat",
+      "name": "Sentadilla con mancuerna, banco",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/dumbbell-bench-squat.gif"
+    },
+    {
+      "id": "glutes/dumbbell-plyo-squat",
+      "slug": "dumbbell-plyo-squat",
+      "name": "Sentadilla con mancuerna, plio",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/dumbbell-plyo-squat.gif"
+    },
+    {
+      "id": "glutes/dumbbell-single-leg-squat",
+      "slug": "dumbbell-single-leg-squat",
+      "name": "Sentadilla con mancuerna, a una pierna",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/dumbbell-single-leg-squat.gif"
+    },
+    {
+      "id": "glutes/dumbbell-squat",
+      "slug": "dumbbell-squat",
+      "name": "Sentadilla con mancuerna",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/dumbbell-squat.gif"
+    },
+    {
+      "id": "glutes/frankenstein-squat",
+      "slug": "frankenstein-squat",
+      "name": "Sentadilla, frankenstein",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/frankenstein-squat.gif"
+    },
+    {
+      "id": "glutes/jump-squat-v-2",
+      "slug": "jump-squat-v-2",
+      "name": "Sentadilla con salto",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/jump-squat-v-2.gif"
+    },
+    {
+      "id": "glutes/jump-squat",
+      "slug": "jump-squat",
+      "name": "Sentadilla con salto",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/jump-squat.gif"
+    },
+    {
+      "id": "glutes/kettlebell-front-squat",
+      "slug": "kettlebell-front-squat",
+      "name": "Sentadilla frontal con kettlebell",
+      "equipment": "kettlebell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/kettlebell-front-squat.gif"
+    },
+    {
+      "id": "glutes/kettlebell-goblet-squat",
+      "slug": "kettlebell-goblet-squat",
+      "name": "Sentadilla goblet con kettlebell",
+      "equipment": "kettlebell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/kettlebell-goblet-squat.gif"
+    },
+    {
+      "id": "glutes/kettlebell-pistol-squat",
+      "slug": "kettlebell-pistol-squat",
+      "name": "Sentadilla pistol con kettlebell",
+      "equipment": "kettlebell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/kettlebell-pistol-squat.gif"
+    },
+    {
+      "id": "glutes/kettlebell-turkish-get-up-squat-style",
+      "slug": "kettlebell-turkish-get-up-squat-style",
+      "name": "Sentadilla con kettlebell, turkish get up style",
+      "equipment": "kettlebell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/kettlebell-turkish-get-up-squat-style.gif"
+    },
+    {
+      "id": "glutes/kneeling-jump-squat",
+      "slug": "kneeling-jump-squat",
+      "name": "Sentadilla con salto, de rodillas",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/kneeling-jump-squat.gif"
+    },
+    {
+      "id": "glutes/one-leg-squat",
+      "slug": "one-leg-squat",
+      "name": "Sentadilla, a una pierna",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/one-leg-squat.gif"
+    },
+    {
+      "id": "glutes/potty-squat-with-support",
+      "slug": "potty-squat-with-support",
+      "name": "Sentadilla potty con apoyo",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/potty-squat-with-support.gif"
+    },
+    {
+      "id": "glutes/single-leg-squat-pistol-male",
+      "slug": "single-leg-squat-pistol-male",
+      "name": "Sentadilla pistol, a una pierna",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/single-leg-squat-pistol-male.gif"
+    },
+    {
+      "id": "glutes/sled-closer-hack-squat",
+      "slug": "sled-closer-hack-squat",
+      "name": "Hack squat en trineo, closer",
+      "equipment": "lever",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/sled-closer-hack-squat.gif"
+    },
+    {
+      "id": "glutes/sled-hack-squat",
+      "slug": "sled-hack-squat",
+      "name": "Hack squat en trineo",
+      "equipment": "lever",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/sled-hack-squat.gif"
+    },
+    {
+      "id": "glutes/sled-lying-squat",
+      "slug": "sled-lying-squat",
+      "name": "Sentadilla en trineo, tumbado",
+      "equipment": "sled",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/sled-lying-squat.gif"
+    },
+    {
+      "id": "glutes/smith-front-squat-clean-grip",
+      "slug": "smith-front-squat-clean-grip",
+      "name": "Cargada en máquina Smith, front-squat",
+      "equipment": "smith",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/smith-front-squat-clean-grip.gif"
+    },
+    {
+      "id": "glutes/smith-full-squat",
+      "slug": "smith-full-squat",
+      "name": "Sentadilla completa en máquina Smith",
+      "equipment": "smith",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/smith-full-squat.gif"
+    },
+    {
+      "id": "glutes/smith-hack-squat",
+      "slug": "smith-hack-squat",
+      "name": "Hack squat en máquina Smith",
+      "equipment": "smith",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/smith-hack-squat.gif"
+    },
+    {
+      "id": "glutes/smith-low-bar-squat",
+      "slug": "smith-low-bar-squat",
+      "name": "Sentadilla en máquina Smith, barra",
+      "equipment": "smith",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/smith-low-bar-squat.gif"
+    },
+    {
+      "id": "glutes/smith-squat",
+      "slug": "smith-squat",
+      "name": "Sentadilla en máquina Smith",
+      "equipment": "smith",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/smith-squat.gif"
+    },
+    {
+      "id": "glutes/smith-sumo-squat",
+      "slug": "smith-sumo-squat",
+      "name": "Sentadilla sumo en máquina Smith",
+      "equipment": "smith",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/smith-sumo-squat.gif"
+    },
+    {
+      "id": "glutes/weighted-cossack-squats-male",
+      "slug": "weighted-cossack-squats-male",
+      "name": "Sentadillas, con peso, cossack",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/weighted-cossack-squats-male.gif"
+    },
+    {
+      "id": "glutes/weighted-squat",
+      "slug": "weighted-squat",
+      "name": "Sentadilla, con peso",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/weighted-squat.gif"
+    },
+    {
+      "id": "lats/cable-squat-row-with-rope-attachment",
+      "slug": "cable-squat-row-with-rope-attachment",
+      "name": "Sentadilla en polea, con cuerda, row",
+      "equipment": "cable",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/lats/cable-squat-row-with-rope-attachment.gif"
+    },
+    {
+      "id": "quads/band-one-arm-single-leg-split-squat",
+      "slug": "band-one-arm-single-leg-split-squat",
+      "name": "Split squat con banda, a una mano a una pierna",
+      "equipment": "band",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/band-one-arm-single-leg-split-squat.gif"
+    },
+    {
+      "id": "quads/band-single-leg-split-squat",
+      "slug": "band-single-leg-split-squat",
+      "name": "Split squat con banda, a una pierna",
+      "equipment": "band",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/band-single-leg-split-squat.gif"
+    },
+    {
+      "id": "quads/barbell-bench-front-squat",
+      "slug": "barbell-bench-front-squat",
+      "name": "Sentadilla frontal con barra, banco",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/barbell-bench-front-squat.gif"
+    },
+    {
+      "id": "quads/barbell-bench-squat",
+      "slug": "barbell-bench-squat",
+      "name": "Sentadilla con barra, banco",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/barbell-bench-squat.gif"
+    },
+    {
+      "id": "quads/barbell-one-leg-squat",
+      "slug": "barbell-one-leg-squat",
+      "name": "Sentadilla con barra, a una pierna",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/barbell-one-leg-squat.gif"
+    },
+    {
+      "id": "quads/barbell-overhead-squat",
+      "slug": "barbell-overhead-squat",
+      "name": "Sentadilla sobre la cabeza con barra",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/barbell-overhead-squat.gif"
+    },
+    {
+      "id": "quads/barbell-side-split-squat-v-2",
+      "slug": "barbell-side-split-squat-v-2",
+      "name": "Split squat con barra, lateral",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/barbell-side-split-squat-v-2.gif"
+    },
+    {
+      "id": "quads/barbell-side-split-squat",
+      "slug": "barbell-side-split-squat",
+      "name": "Split squat con barra, lateral",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/barbell-side-split-squat.gif"
+    },
+    {
+      "id": "quads/barbell-single-leg-split-squat",
+      "slug": "barbell-single-leg-split-squat",
+      "name": "Split squat con barra, a una pierna",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/barbell-single-leg-split-squat.gif"
+    },
+    {
+      "id": "quads/barbell-split-squat-v-2",
+      "slug": "barbell-split-squat-v-2",
+      "name": "Split squat con barra",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/barbell-split-squat-v-2.gif"
+    },
+    {
+      "id": "quads/barbell-squat-jump-step-rear-lunge",
+      "slug": "barbell-squat-jump-step-rear-lunge",
+      "name": "Sentadilla con barra, posterior, jump paso lunge",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/barbell-squat-jump-step-rear-lunge.gif"
+    },
+    {
+      "id": "quads/barbell-squat-on-knees",
+      "slug": "barbell-squat-on-knees",
+      "name": "Sentadilla con barra, rodillas",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/barbell-squat-on-knees.gif"
+    },
+    {
+      "id": "quads/barbell-wide-squat",
+      "slug": "barbell-wide-squat",
+      "name": "Sentadilla con barra, ancho",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/barbell-wide-squat.gif"
+    },
+    {
+      "id": "quads/dumbbell-goblet-squat",
+      "slug": "dumbbell-goblet-squat",
+      "name": "Sentadilla goblet con mancuerna",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/dumbbell-goblet-squat.gif"
+    },
+    {
+      "id": "quads/dumbbell-single-leg-split-squat",
+      "slug": "dumbbell-single-leg-split-squat",
+      "name": "Split squat con mancuerna, a una pierna",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/dumbbell-single-leg-split-squat.gif"
+    },
+    {
+      "id": "quads/dumbbell-step-up-split-squat",
+      "slug": "dumbbell-step-up-split-squat",
+      "name": "Split squat con mancuerna, step-up",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/dumbbell-step-up-split-squat.gif"
+    },
+    {
+      "id": "quads/dumbbell-supported-squat",
+      "slug": "dumbbell-supported-squat",
+      "name": "Sentadilla con mancuerna, supported",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/dumbbell-supported-squat.gif"
+    },
+    {
+      "id": "quads/sissy-squat",
+      "slug": "sissy-squat",
+      "name": "Sissy squat",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/sissy-squat.gif"
+    },
+    {
+      "id": "quads/smith-chair-squat",
+      "slug": "smith-chair-squat",
+      "name": "Sentadilla en máquina Smith, silla",
+      "equipment": "smith",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/smith-chair-squat.gif"
+    },
+    {
+      "id": "quads/smith-single-leg-split-squat",
+      "slug": "smith-single-leg-split-squat",
+      "name": "Split squat en máquina Smith, a una pierna",
+      "equipment": "smith",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/smith-single-leg-split-squat.gif"
+    },
+    {
+      "id": "quads/split-squats",
+      "slug": "split-squats",
+      "name": "Split squat",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/split-squats.gif"
+    },
+    {
+      "id": "quads/squat-jerk",
+      "slug": "squat-jerk",
+      "name": "Envión, sentadilla",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/squat-jerk.gif"
+    },
+    {
+      "id": "quads/squat-on-bosu-ball",
+      "slug": "squat-on-bosu-ball",
+      "name": "Sentadilla, en bosu",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/squat-on-bosu-ball.gif"
+    },
+    {
+      "id": "quads/squat-to-overhead-reach-with-twist",
+      "slug": "squat-to-overhead-reach-with-twist",
+      "name": "Sentadilla con alcance sobre la cabeza y giro",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/squat-to-overhead-reach-with-twist.gif"
+    },
+    {
+      "id": "quads/squat-to-overhead-reach",
+      "slug": "squat-to-overhead-reach",
+      "name": "Sentadilla, con alcance sobre la cabeza",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/squat-to-overhead-reach.gif"
+    },
+    {
+      "id": "quads/suspended-split-squat",
+      "slug": "suspended-split-squat",
+      "name": "Split squat, suspendido",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/suspended-split-squat.gif"
+    },
+    {
+      "id": "quads/weighted-sissy-squat",
+      "slug": "weighted-sissy-squat",
+      "name": "Sissy squat, con peso",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/weighted-sissy-squat.gif"
+    },
+    {
+      "id": "upper-back/bodyweight-squatting-row-with-towel",
+      "slug": "bodyweight-squatting-row-with-towel",
+      "name": "Remo con peso corporal, en cuclillas, con toalla",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/upper-back/bodyweight-squatting-row-with-towel.gif"
+    },
+    {
+      "id": "upper-back/bodyweight-squatting-row",
+      "slug": "bodyweight-squatting-row",
+      "name": "Remo con peso corporal, en cuclillas",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/upper-back/bodyweight-squatting-row.gif"
+    }
+  ],
+  "push-up": [
+    {
+      "id": "abs/push-up-to-side-plank",
+      "slug": "push-up-to-side-plank",
+      "name": "Flexión a plancha lateral",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/push-up-to-side-plank.gif"
+    },
+    {
+      "id": "forearms/modified-push-up-to-lower-arms",
+      "slug": "modified-push-up-to-lower-arms",
+      "name": "Flexión, modified inferior brazos",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/forearms/modified-push-up-to-lower-arms.gif"
+    },
+    {
+      "id": "glutes/outside-leg-kick-push-up",
+      "slug": "outside-leg-kick-push-up",
+      "name": "Flexión, externo pierna patada",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/outside-leg-kick-push-up.gif"
+    },
+    {
+      "id": "glutes/pike-to-cobra-push-up",
+      "slug": "pike-to-cobra-push-up",
+      "name": "Flexión pike-cobra",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/pike-to-cobra-push-up.gif"
+    },
+    {
+      "id": "glutes/push-up-inside-leg-kick",
+      "slug": "push-up-inside-leg-kick",
+      "name": "Flexión, interno pierna patada",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/push-up-inside-leg-kick.gif"
+    },
+    {
+      "id": "glutes/spider-crawl-push-up",
+      "slug": "spider-crawl-push-up",
+      "name": "Flexión spider, crawl",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/spider-crawl-push-up.gif"
+    },
+    {
+      "id": "pectorals/archer-push-up",
+      "slug": "archer-push-up",
+      "name": "Flexión del arquero",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/archer-push-up.gif"
+    },
+    {
+      "id": "pectorals/chest-tap-push-up-male",
+      "slug": "chest-tap-push-up-male",
+      "name": "Flexión con toque en el pecho",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/chest-tap-push-up-male.gif"
+    },
+    {
+      "id": "pectorals/clap-push-up",
+      "slug": "clap-push-up",
+      "name": "Flexión con palmada",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/clap-push-up.gif"
+    },
+    {
+      "id": "pectorals/clock-push-up",
+      "slug": "clock-push-up",
+      "name": "Reloj",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/clock-push-up.gif"
+    },
+    {
+      "id": "pectorals/decline-push-up",
+      "slug": "decline-push-up",
+      "name": "Flexión declinada",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/decline-push-up.gif"
+    },
+    {
+      "id": "pectorals/deep-push-up",
+      "slug": "deep-push-up",
+      "name": "Flexión profunda",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/deep-push-up.gif"
+    },
+    {
+      "id": "pectorals/drop-push-up",
+      "slug": "drop-push-up",
+      "name": "Flexión, drop",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/drop-push-up.gif"
+    },
+    {
+      "id": "pectorals/exercise-ball-pike-push-up",
+      "slug": "exercise-ball-pike-push-up",
+      "name": "Flexión en fitball, en pike",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/exercise-ball-pike-push-up.gif"
+    },
+    {
+      "id": "pectorals/full-planche-push-up",
+      "slug": "full-planche-push-up",
+      "name": "Flexión plancha completa",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/full-planche-push-up.gif"
+    },
+    {
+      "id": "pectorals/incline-push-up-depth-jump",
+      "slug": "incline-push-up-depth-jump",
+      "name": "Flexión inclinada, depth jump",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/incline-push-up-depth-jump.gif"
+    },
+    {
+      "id": "pectorals/incline-push-up-on-box",
+      "slug": "incline-push-up-on-box",
+      "name": "Flexión inclinada, cajón",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/incline-push-up-on-box.gif"
+    },
+    {
+      "id": "pectorals/incline-push-up",
+      "slug": "incline-push-up",
+      "name": "Flexión inclinada",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/incline-push-up.gif"
+    },
+    {
+      "id": "pectorals/incline-reverse-grip-push-up",
+      "slug": "incline-reverse-grip-push-up",
+      "name": "Flexión inclinado, con agarre invertido",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/incline-reverse-grip-push-up.gif"
+    },
+    {
+      "id": "pectorals/kettlebell-plyo-push-up",
+      "slug": "kettlebell-plyo-push-up",
+      "name": "Flexión pliométrica con kettlebell",
+      "equipment": "kettlebell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/kettlebell-plyo-push-up.gif"
+    },
+    {
+      "id": "pectorals/kneeling-push-up-male",
+      "slug": "kneeling-push-up-male",
+      "name": "Flexión, de rodillas",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/kneeling-push-up-male.gif"
+    },
+    {
+      "id": "pectorals/modified-hindu-push-up-male",
+      "slug": "modified-hindu-push-up-male",
+      "name": "Flexión hindú modificada",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/modified-hindu-push-up-male.gif"
+    },
+    {
+      "id": "pectorals/plyo-push-up",
+      "slug": "plyo-push-up",
+      "name": "Flexión pliométrica",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/plyo-push-up.gif"
+    },
+    {
+      "id": "pectorals/push-up-bosu-ball",
+      "slug": "push-up-bosu-ball",
+      "name": "Flexión en bosu",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/push-up-bosu-ball.gif"
+    },
+    {
+      "id": "pectorals/push-up-medicine-ball",
+      "slug": "push-up-medicine-ball",
+      "name": "Flexión con balón medicinal",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/push-up-medicine-ball.gif"
+    },
+    {
+      "id": "pectorals/push-up-on-bosu-ball",
+      "slug": "push-up-on-bosu-ball",
+      "name": "Flexión, en bosu",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/push-up-on-bosu-ball.gif"
+    },
+    {
+      "id": "pectorals/push-up-on-stability-ball-0656",
+      "slug": "push-up-on-stability-ball-0656",
+      "name": "Flexión, en fitball",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/push-up-on-stability-ball-0656.gif"
+    },
+    {
+      "id": "pectorals/push-up-on-stability-ball",
+      "slug": "push-up-on-stability-ball",
+      "name": "Flexión, en fitball",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/push-up-on-stability-ball.gif"
+    },
+    {
+      "id": "pectorals/push-up-plus",
+      "slug": "push-up-plus",
+      "name": "Flexión, plus",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/push-up-plus.gif"
+    },
+    {
+      "id": "pectorals/push-up-wall-v-2",
+      "slug": "push-up-wall-v-2",
+      "name": "Flexión, pared",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/push-up-wall-v-2.gif"
+    },
+    {
+      "id": "pectorals/push-up-wall",
+      "slug": "push-up-wall",
+      "name": "Flexión, pared",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/push-up-wall.gif"
+    },
+    {
+      "id": "pectorals/push-up",
+      "slug": "push-up",
+      "name": "Flexión",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/push-up.gif"
+    },
+    {
+      "id": "pectorals/raise-single-arm-push-up",
+      "slug": "raise-single-arm-push-up",
+      "name": "Flexión a una mano con elevación",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/raise-single-arm-push-up.gif"
+    },
+    {
+      "id": "pectorals/shoulder-tap-push-up",
+      "slug": "shoulder-tap-push-up",
+      "name": "Flexión con toque de hombro",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/shoulder-tap-push-up.gif"
+    },
+    {
+      "id": "pectorals/single-arm-push-up",
+      "slug": "single-arm-push-up",
+      "name": "Flexión a una mano",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/single-arm-push-up.gif"
+    },
+    {
+      "id": "pectorals/superman-push-up",
+      "slug": "superman-push-up",
+      "name": "Flexión superman",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/superman-push-up.gif"
+    },
+    {
+      "id": "pectorals/suspended-push-up",
+      "slug": "suspended-push-up",
+      "name": "Flexión, suspendido",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/suspended-push-up.gif"
+    },
+    {
+      "id": "pectorals/weighted-drop-push-up",
+      "slug": "weighted-drop-push-up",
+      "name": "Flexión, con peso, drop",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/weighted-drop-push-up.gif"
+    },
+    {
+      "id": "pectorals/wide-hand-push-up",
+      "slug": "wide-hand-push-up",
+      "name": "Flexión con manos abiertas",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/wide-hand-push-up.gif"
+    },
+    {
+      "id": "serratus-anterior/incline-scapula-push-up",
+      "slug": "incline-scapula-push-up",
+      "name": "Flexión inclinado, scapula",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/serratus-anterior/incline-scapula-push-up.gif"
+    },
+    {
+      "id": "serratus-anterior/scapula-push-up",
+      "slug": "scapula-push-up",
+      "name": "Flexión, scapula",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/serratus-anterior/scapula-push-up.gif"
+    },
+    {
+      "id": "triceps/band-close-grip-push-up",
+      "slug": "band-close-grip-push-up",
+      "name": "Flexión con agarre cerrado con banda",
+      "equipment": "band",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/band-close-grip-push-up.gif"
+    },
+    {
+      "id": "triceps/close-grip-push-up-on-knees",
+      "slug": "close-grip-push-up-on-knees",
+      "name": "Flexión con agarre cerrado, rodillas",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/close-grip-push-up-on-knees.gif"
+    },
+    {
+      "id": "triceps/close-grip-push-up",
+      "slug": "close-grip-push-up",
+      "name": "Flexión con agarre cerrado",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/close-grip-push-up.gif"
+    },
+    {
+      "id": "triceps/diamond-push-up",
+      "slug": "diamond-push-up",
+      "name": "Flexión diamante",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/diamond-push-up.gif"
+    },
+    {
+      "id": "triceps/handstand-push-up",
+      "slug": "handstand-push-up",
+      "name": "Flexión en parada de manos",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/handstand-push-up.gif"
+    },
+    {
+      "id": "triceps/incline-close-grip-push-up",
+      "slug": "incline-close-grip-push-up",
+      "name": "Flexión con agarre cerrado inclinado",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/incline-close-grip-push-up.gif"
+    },
+    {
+      "id": "triceps/medicine-ball-close-grip-push-up",
+      "slug": "medicine-ball-close-grip-push-up",
+      "name": "Flexión con agarre cerrado con balón medicinal",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/medicine-ball-close-grip-push-up.gif"
+    },
+    {
+      "id": "triceps/narrow-push-up-on-exercise-ball",
+      "slug": "narrow-push-up-on-exercise-ball",
+      "name": "Flexión cerrada, en fitball",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/narrow-push-up-on-exercise-ball.gif"
+    },
+    {
+      "id": "triceps/push-up-close-grip-off-dumbbell",
+      "slug": "push-up-close-grip-off-dumbbell",
+      "name": "Flexión con mancuerna, con agarre cerrado, off",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/push-up-close-grip-off-dumbbell.gif"
+    },
+    {
+      "id": "triceps/push-up-on-lower-arms",
+      "slug": "push-up-on-lower-arms",
+      "name": "Flexión, inferior brazos",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/push-up-on-lower-arms.gif"
+    },
+    {
+      "id": "triceps/side-push-up",
+      "slug": "side-push-up",
+      "name": "Flexión lateral",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/side-push-up.gif"
+    },
+    {
+      "id": "upper-back/elbow-lift-reverse-push-up",
+      "slug": "elbow-lift-reverse-push-up",
+      "name": "Flexión invertida con elevación de codo",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/upper-back/elbow-lift-reverse-push-up.gif"
+    }
+  ],
+  "burpee": [
+    {
+      "id": "cardio/burpee",
+      "slug": "burpee",
+      "name": "Burpee",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/burpee.gif"
+    },
+    {
+      "id": "cardio/dumbbell-burpee",
+      "slug": "dumbbell-burpee",
+      "name": "Burpee con mancuerna",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/dumbbell-burpee.gif"
+    },
+    {
+      "id": "cardio/jack-burpee",
+      "slug": "jack-burpee",
+      "name": "Burpee, jack",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/jack-burpee.gif"
+    }
+  ],
+  "bridge": [
+    {
+      "id": "abductors/side-bridge-hip-abduction",
+      "slug": "side-bridge-hip-abduction",
+      "name": "Abducción de cadera en puente lateral",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abductors/side-bridge-hip-abduction.gif"
+    },
+    {
+      "id": "abs/bridge-mountain-climber-cross-body",
+      "slug": "bridge-mountain-climber-cross-body",
+      "name": "Escalador cruzado al cuerpo, puente",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/bridge-mountain-climber-cross-body.gif"
+    },
+    {
+      "id": "abs/side-bridge-v-2",
+      "slug": "side-bridge-v-2",
+      "name": "Puente lateral",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/side-bridge-v-2.gif"
+    },
+    {
+      "id": "glutes/barbell-glute-bridge-two-legs-on-bench-male",
+      "slug": "barbell-glute-bridge-two-legs-on-bench-male",
+      "name": "Puente de glúteos con barra, a dos piernas en banco",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-glute-bridge-two-legs-on-bench-male.gif"
+    },
+    {
+      "id": "glutes/barbell-glute-bridge",
+      "slug": "barbell-glute-bridge",
+      "name": "Puente de glúteos con barra",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-glute-bridge.gif"
+    },
+    {
+      "id": "glutes/glute-bridge-march",
+      "slug": "glute-bridge-march",
+      "name": "Puente de glúteos, march",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/glute-bridge-march.gif"
+    },
+    {
+      "id": "glutes/glute-bridge-two-legs-on-bench-male",
+      "slug": "glute-bridge-two-legs-on-bench-male",
+      "name": "Puente de glúteos, a dos piernas en banco",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/glute-bridge-two-legs-on-bench-male.gif"
+    },
+    {
+      "id": "glutes/low-glute-bridge-on-floor",
+      "slug": "low-glute-bridge-on-floor",
+      "name": "Puente de glúteos, bajo en el suelo",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/low-glute-bridge-on-floor.gif"
+    },
+    {
+      "id": "glutes/pelvic-tilt-into-bridge",
+      "slug": "pelvic-tilt-into-bridge",
+      "name": "Inclinación pélvica al puente",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/pelvic-tilt-into-bridge.gif"
+    },
+    {
+      "id": "glutes/rear-decline-bridge",
+      "slug": "rear-decline-bridge",
+      "name": "Puente declinado, posterior",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/rear-decline-bridge.gif"
+    },
+    {
+      "id": "glutes/single-leg-bridge-with-outstretched-leg",
+      "slug": "single-leg-bridge-with-outstretched-leg",
+      "name": "Puente, a una pierna con extendida",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/single-leg-bridge-with-outstretched-leg.gif"
+    }
+  ],
+  "leg-raise": [
+    {
+      "id": "abs/assisted-lying-leg-raise-with-lateral-throw-down",
+      "slug": "assisted-lying-leg-raise-with-lateral-throw-down",
+      "name": "Elevación de piernas, tumbado, asistido con lanzamiento lateral",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/assisted-lying-leg-raise-with-lateral-throw-down.gif"
+    },
+    {
+      "id": "abs/assisted-lying-leg-raise-with-throw-down",
+      "slug": "assisted-lying-leg-raise-with-throw-down",
+      "name": "Elevación de piernas, tumbado, asistido con lanzamiento",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/assisted-lying-leg-raise-with-throw-down.gif"
+    },
+    {
+      "id": "abs/band-lying-straight-leg-raise",
+      "slug": "band-lying-straight-leg-raise",
+      "name": "Elevación con banda, tumbado, con pierna recta",
+      "equipment": "band",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/band-lying-straight-leg-raise.gif"
+    },
+    {
+      "id": "abs/barbell-sitted-alternate-leg-raise-female",
+      "slug": "barbell-sitted-alternate-leg-raise-female",
+      "name": "Elevación de piernas con barra, alternado, sitted",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/barbell-sitted-alternate-leg-raise-female.gif"
+    },
+    {
+      "id": "abs/barbell-sitted-alternate-leg-raise",
+      "slug": "barbell-sitted-alternate-leg-raise",
+      "name": "Elevación de piernas con barra, alternado, sitted",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/barbell-sitted-alternate-leg-raise.gif"
+    },
+    {
+      "id": "abs/captains-chair-straight-leg-raise",
+      "slug": "captains-chair-straight-leg-raise",
+      "name": "Elevación de piernas rectas en silla del capitán",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/captains-chair-straight-leg-raise.gif"
+    },
+    {
+      "id": "abs/hanging-leg-raise",
+      "slug": "hanging-leg-raise",
+      "name": "Elevación de piernas en barra",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/hanging-leg-raise.gif"
+    },
+    {
+      "id": "abs/hanging-straight-leg-raise",
+      "slug": "hanging-straight-leg-raise",
+      "name": "Elevación, colgado, con pierna recta",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/hanging-straight-leg-raise.gif"
+    },
+    {
+      "id": "abs/lever-seated-leg-raise-crunch",
+      "slug": "lever-seated-leg-raise-crunch",
+      "name": "Elevación de piernas en máquina, sentado, crunch",
+      "equipment": "lever",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/lever-seated-leg-raise-crunch.gif"
+    },
+    {
+      "id": "abs/lying-leg-raise-flat-bench",
+      "slug": "lying-leg-raise-flat-bench",
+      "name": "Elevación de piernas, tumbado, en banco plano",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/lying-leg-raise-flat-bench.gif"
+    },
+    {
+      "id": "abs/seated-leg-raise",
+      "slug": "seated-leg-raise",
+      "name": "Elevación de piernas, sentado",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/seated-leg-raise.gif"
+    },
+    {
+      "id": "abs/twisted-leg-raise-female",
+      "slug": "twisted-leg-raise-female",
+      "name": "Elevación de piernas, twisted",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/twisted-leg-raise-female.gif"
+    },
+    {
+      "id": "abs/twisted-leg-raise",
+      "slug": "twisted-leg-raise",
+      "name": "Elevación de piernas, twisted",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/twisted-leg-raise.gif"
+    },
+    {
+      "id": "abs/vertical-leg-raise-on-parallel-bars",
+      "slug": "vertical-leg-raise-on-parallel-bars",
+      "name": "Elevación vertical de piernas en barras paralelas",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/vertical-leg-raise-on-parallel-bars.gif"
+    },
+    {
+      "id": "biceps/dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball",
+      "slug": "dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball",
+      "name": "Curl de bíceps con mancuerna, alternado con pierna elevada en fitball",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/biceps/dumbbell-alternating-bicep-curl-with-leg-raised-on-exercise-ball.gif"
+    },
+    {
+      "id": "biceps/dumbbell-bicep-curl-on-exercise-ball-with-leg-raised",
+      "slug": "dumbbell-bicep-curl-on-exercise-ball-with-leg-raised",
+      "name": "Curl de bíceps con mancuerna, en fitball con pierna elevada",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/biceps/dumbbell-bicep-curl-on-exercise-ball-with-leg-raised.gif"
+    },
+    {
+      "id": "biceps/dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised",
+      "slug": "dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised",
+      "name": "Curl de bíceps con mancuerna, sentado, a una mano en fitball con pierna elevada",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/biceps/dumbbell-seated-one-arm-bicep-curl-on-exercise-ball-with-leg-raised.gif"
+    },
+    {
+      "id": "spine/exercise-ball-prone-leg-raise",
+      "slug": "exercise-ball-prone-leg-raise",
+      "name": "Elevación de piernas tumbado boca abajo en fitball",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/spine/exercise-ball-prone-leg-raise.gif"
+    }
+  ],
+  "crunch": [
+    {
+      "id": "abs/band-bicycle-crunch",
+      "slug": "band-bicycle-crunch",
+      "name": "Bicicleta abdominal con banda",
+      "equipment": "band",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/band-bicycle-crunch.gif"
+    },
+    {
+      "id": "abs/band-kneeling-twisting-crunch",
+      "slug": "band-kneeling-twisting-crunch",
+      "name": "Crunch con banda, de rodillas, con giro",
+      "equipment": "band",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/band-kneeling-twisting-crunch.gif"
+    },
+    {
+      "id": "abs/band-standing-crunch",
+      "slug": "band-standing-crunch",
+      "name": "Crunch con banda, de pie",
+      "equipment": "band",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/band-standing-crunch.gif"
+    },
+    {
+      "id": "abs/band-standing-twisting-crunch",
+      "slug": "band-standing-twisting-crunch",
+      "name": "Crunch con banda, de pie, con giro",
+      "equipment": "band",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/band-standing-twisting-crunch.gif"
+    },
+    {
+      "id": "abs/cable-kneeling-crunch",
+      "slug": "cable-kneeling-crunch",
+      "name": "Crunch en polea, de rodillas",
+      "equipment": "cable",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/cable-kneeling-crunch.gif"
+    },
+    {
+      "id": "abs/cable-reverse-crunch",
+      "slug": "cable-reverse-crunch",
+      "name": "Crunch invertido en polea",
+      "equipment": "cable",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/cable-reverse-crunch.gif"
+    },
+    {
+      "id": "abs/cable-seated-crunch",
+      "slug": "cable-seated-crunch",
+      "name": "Crunch en polea, sentado",
+      "equipment": "cable",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/cable-seated-crunch.gif"
+    },
+    {
+      "id": "abs/cable-side-bend-crunch-bosu-ball",
+      "slug": "cable-side-bend-crunch-bosu-ball",
+      "name": "Crunch con inclinación lateral en polea sobre bosu",
+      "equipment": "cable",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/cable-side-bend-crunch-bosu-ball.gif"
+    },
+    {
+      "id": "abs/cable-side-crunch",
+      "slug": "cable-side-crunch",
+      "name": "Crunch en polea, lateral",
+      "equipment": "cable",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/cable-side-crunch.gif"
+    },
+    {
+      "id": "abs/cable-standing-crunch-with-rope-attachment",
+      "slug": "cable-standing-crunch-with-rope-attachment",
+      "name": "Crunch en polea, de pie, con cuerda",
+      "equipment": "cable",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/cable-standing-crunch-with-rope-attachment.gif"
+    },
+    {
+      "id": "abs/cable-standing-crunch",
+      "slug": "cable-standing-crunch",
+      "name": "Crunch en polea, de pie",
+      "equipment": "cable",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/cable-standing-crunch.gif"
+    },
+    {
+      "id": "abs/cable-tuck-reverse-crunch",
+      "slug": "cable-tuck-reverse-crunch",
+      "name": "Crunch invertido en polea, tuck",
+      "equipment": "cable",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/cable-tuck-reverse-crunch.gif"
+    },
+    {
+      "id": "abs/cross-body-crunch",
+      "slug": "cross-body-crunch",
+      "name": "Crunch cruzado al cuerpo",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/cross-body-crunch.gif"
+    },
+    {
+      "id": "abs/crunch-floor",
+      "slug": "crunch-floor",
+      "name": "Crunch, suelo",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/crunch-floor.gif"
+    },
+    {
+      "id": "abs/crunch-hands-overhead",
+      "slug": "crunch-hands-overhead",
+      "name": "Crunch, con manos sobre la cabeza",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/crunch-hands-overhead.gif"
+    },
+    {
+      "id": "abs/crunch-on-stability-ball-arms-straight",
+      "slug": "crunch-on-stability-ball-arms-straight",
+      "name": "Crunch, en fitball con brazos rectos",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/crunch-on-stability-ball-arms-straight.gif"
+    },
+    {
+      "id": "abs/crunch-on-stability-ball",
+      "slug": "crunch-on-stability-ball",
+      "name": "Crunch, en fitball",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/crunch-on-stability-ball.gif"
+    },
+    {
+      "id": "abs/decline-crunch",
+      "slug": "decline-crunch",
+      "name": "Crunch declinado",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/decline-crunch.gif"
+    },
+    {
+      "id": "abs/frog-crunch",
+      "slug": "frog-crunch",
+      "name": "Crunch, frog",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/frog-crunch.gif"
+    },
+    {
+      "id": "abs/groin-crunch",
+      "slug": "groin-crunch",
+      "name": "Crunch para ingle",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/groin-crunch.gif"
+    },
+    {
+      "id": "abs/knee-touch-crunch",
+      "slug": "knee-touch-crunch",
+      "name": "Crunch, rodilla toque",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/knee-touch-crunch.gif"
+    },
+    {
+      "id": "abs/lever-seated-crunch-chest-pad",
+      "slug": "lever-seated-crunch-chest-pad",
+      "name": "Crunch en máquina, sentado, pecho pad",
+      "equipment": "lever",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/lever-seated-crunch-chest-pad.gif"
+    },
+    {
+      "id": "abs/lever-seated-crunch-v-2",
+      "slug": "lever-seated-crunch-v-2",
+      "name": "Crunch en máquina, sentado",
+      "equipment": "lever",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/lever-seated-crunch-v-2.gif"
+    },
+    {
+      "id": "abs/lever-seated-crunch",
+      "slug": "lever-seated-crunch",
+      "name": "Crunch en máquina, sentado",
+      "equipment": "lever",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/lever-seated-crunch.gif"
+    },
+    {
+      "id": "abs/lever-seated-leg-raise-crunch",
+      "slug": "lever-seated-leg-raise-crunch",
+      "name": "Elevación de piernas en máquina, sentado, crunch",
+      "equipment": "lever",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/lever-seated-leg-raise-crunch.gif"
+    },
+    {
+      "id": "abs/negative-crunch",
+      "slug": "negative-crunch",
+      "name": "Crunch, negative",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/negative-crunch.gif"
+    },
+    {
+      "id": "abs/oblique-crunch-v-2",
+      "slug": "oblique-crunch-v-2",
+      "name": "Crunch, oblicuo",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/oblique-crunch-v-2.gif"
+    },
+    {
+      "id": "abs/oblique-crunches-floor",
+      "slug": "oblique-crunches-floor",
+      "name": "Crunch oblicuo en el suelo",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/oblique-crunches-floor.gif"
+    },
+    {
+      "id": "abs/reverse-crunch",
+      "slug": "reverse-crunch",
+      "name": "Crunch invertido",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/reverse-crunch.gif"
+    },
+    {
+      "id": "abs/roller-reverse-crunch",
+      "slug": "roller-reverse-crunch",
+      "name": "Crunch invertido, roller",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/roller-reverse-crunch.gif"
+    },
+    {
+      "id": "abs/seated-side-crunch-wall",
+      "slug": "seated-side-crunch-wall",
+      "name": "Crunch lateral sentado contra la pared",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/seated-side-crunch-wall.gif"
+    },
+    {
+      "id": "abs/stability-ball-crunch-full-range-hands-behind-head",
+      "slug": "stability-ball-crunch-full-range-hands-behind-head",
+      "name": "Crunch en fitball en rango completo, con manos detrás de la cabeza",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/stability-ball-crunch-full-range-hands-behind-head.gif"
+    },
+    {
+      "id": "abs/suspended-reverse-crunch",
+      "slug": "suspended-reverse-crunch",
+      "name": "Crunch invertido, suspendido",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/suspended-reverse-crunch.gif"
+    },
+    {
+      "id": "abs/tuck-crunch",
+      "slug": "tuck-crunch",
+      "name": "Crunch, tuck",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/tuck-crunch.gif"
+    },
+    {
+      "id": "abs/weighted-crunch",
+      "slug": "weighted-crunch",
+      "name": "Crunch, con peso",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/weighted-crunch.gif"
+    },
+    {
+      "id": "abs/weighted-overhead-crunch-on-stability-ball",
+      "slug": "weighted-overhead-crunch-on-stability-ball",
+      "name": "Crunch sobre la cabeza, con peso en fitball",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/weighted-overhead-crunch-on-stability-ball.gif"
+    }
+  ],
+  "lunge": [
+    {
+      "id": "abs/lunge-with-twist",
+      "slug": "lunge-with-twist",
+      "name": "Zancada con giro",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/lunge-with-twist.gif"
+    },
+    {
+      "id": "biceps/dumbbell-bicep-curl-lunge-with-bowling-motion",
+      "slug": "dumbbell-bicep-curl-lunge-with-bowling-motion",
+      "name": "Zancada con mancuerna, con movimiento de bolos, bicep-curl",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/biceps/dumbbell-bicep-curl-lunge-with-bowling-motion.gif"
+    },
+    {
+      "id": "biceps/dumbbell-lunge-with-bicep-curl",
+      "slug": "dumbbell-lunge-with-bicep-curl",
+      "name": "Zancada con mancuerna, con curl de bíceps",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/biceps/dumbbell-lunge-with-bicep-curl.gif"
+    },
+    {
+      "id": "cardio/walking-high-knees-lunge",
+      "slug": "walking-high-knees-lunge",
+      "name": "Rodillas altas, caminando lunge",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/walking-high-knees-lunge.gif"
+    },
+    {
+      "id": "glutes/barbell-lateral-lunge",
+      "slug": "barbell-lateral-lunge",
+      "name": "Zancada con barra, lateral",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-lateral-lunge.gif"
+    },
+    {
+      "id": "glutes/barbell-lunge",
+      "slug": "barbell-lunge",
+      "name": "Zancada con barra",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-lunge.gif"
+    },
+    {
+      "id": "glutes/barbell-rear-lunge-v-2",
+      "slug": "barbell-rear-lunge-v-2",
+      "name": "Zancada con barra, posterior",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-rear-lunge-v-2.gif"
+    },
+    {
+      "id": "glutes/barbell-rear-lunge",
+      "slug": "barbell-rear-lunge",
+      "name": "Zancada con barra, posterior",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/barbell-rear-lunge.gif"
+    },
+    {
+      "id": "glutes/dumbbell-contralateral-forward-lunge",
+      "slug": "dumbbell-contralateral-forward-lunge",
+      "name": "Zancada con mancuerna, contralateral hacia adelante",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/dumbbell-contralateral-forward-lunge.gif"
+    },
+    {
+      "id": "glutes/dumbbell-lunge",
+      "slug": "dumbbell-lunge",
+      "name": "Zancada con mancuerna",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/dumbbell-lunge.gif"
+    },
+    {
+      "id": "glutes/dumbbell-rear-lunge",
+      "slug": "dumbbell-rear-lunge",
+      "name": "Zancada con mancuerna, posterior",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/dumbbell-rear-lunge.gif"
+    },
+    {
+      "id": "glutes/forward-lunge-male",
+      "slug": "forward-lunge-male",
+      "name": "Zancada, hacia adelante",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/forward-lunge-male.gif"
+    },
+    {
+      "id": "glutes/kettlebell-lunge-pass-through",
+      "slug": "kettlebell-lunge-pass-through",
+      "name": "Zancada pass-through con kettlebell",
+      "equipment": "kettlebell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/kettlebell-lunge-pass-through.gif"
+    },
+    {
+      "id": "glutes/lunge-with-jump",
+      "slug": "lunge-with-jump",
+      "name": "Zancada, jump",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/lunge-with-jump.gif"
+    },
+    {
+      "id": "glutes/smith-sprint-lunge",
+      "slug": "smith-sprint-lunge",
+      "name": "Zancada en máquina Smith, sprint",
+      "equipment": "smith",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/smith-sprint-lunge.gif"
+    },
+    {
+      "id": "glutes/walking-lunge",
+      "slug": "walking-lunge",
+      "name": "Zancada, caminando",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/walking-lunge.gif"
+    },
+    {
+      "id": "glutes/weighted-lunge-with-swing",
+      "slug": "weighted-lunge-with-swing",
+      "name": "Zancada, con peso, swing",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/weighted-lunge-with-swing.gif"
+    },
+    {
+      "id": "glutes/weighted-stretch-lunge",
+      "slug": "weighted-stretch-lunge",
+      "name": "Zancada en estiramiento con peso",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/weighted-stretch-lunge.gif"
+    },
+    {
+      "id": "quads/barbell-squat-jump-step-rear-lunge",
+      "slug": "barbell-squat-jump-step-rear-lunge",
+      "name": "Sentadilla con barra, posterior, jump paso lunge",
+      "equipment": "barbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/barbell-squat-jump-step-rear-lunge.gif"
+    },
+    {
+      "id": "quads/dumbbell-step-up-lunge",
+      "slug": "dumbbell-step-up-lunge",
+      "name": "Zancada con mancuerna, step-up",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/dumbbell-step-up-lunge.gif"
+    },
+    {
+      "id": "triceps/dumbbell-forward-lunge-triceps-extension",
+      "slug": "dumbbell-forward-lunge-triceps-extension",
+      "name": "Extensión de tríceps con mancuerna, hacia adelante lunge",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/dumbbell-forward-lunge-triceps-extension.gif"
+    }
+  ],
+  "plank": [
+    {
+      "id": "abs/bodyweight-incline-side-plank",
+      "slug": "bodyweight-incline-side-plank",
+      "name": "Plancha lateral inclinado con peso corporal",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/bodyweight-incline-side-plank.gif"
+    },
+    {
+      "id": "abs/front-plank-with-twist",
+      "slug": "front-plank-with-twist",
+      "name": "Plancha frontal con giro",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/front-plank-with-twist.gif"
+    },
+    {
+      "id": "abs/kneeling-plank-tap-shoulder-male",
+      "slug": "kneeling-plank-tap-shoulder-male",
+      "name": "Plancha de rodillas con toque de hombro",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/kneeling-plank-tap-shoulder-male.gif"
+    },
+    {
+      "id": "abs/power-point-plank",
+      "slug": "power-point-plank",
+      "name": "Plancha, potencia punto",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/power-point-plank.gif"
+    },
+    {
+      "id": "abs/push-up-to-side-plank",
+      "slug": "push-up-to-side-plank",
+      "name": "Flexión a plancha lateral",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/push-up-to-side-plank.gif"
+    },
+    {
+      "id": "abs/reverse-plank-with-leg-lift",
+      "slug": "reverse-plank-with-leg-lift",
+      "name": "Plancha invertida con elevación de pierna",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/reverse-plank-with-leg-lift.gif"
+    },
+    {
+      "id": "abs/weighted-front-plank",
+      "slug": "weighted-front-plank",
+      "name": "Plancha, con peso frontal",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/weighted-front-plank.gif"
+    },
+    {
+      "id": "adductors/side-plank-hip-adduction",
+      "slug": "side-plank-hip-adduction",
+      "name": "Aducción de cadera en plancha lateral",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/adductors/side-plank-hip-adduction.gif"
+    },
+    {
+      "id": "upper-back/dumbbell-side-plank-with-rear-fly",
+      "slug": "dumbbell-side-plank-with-rear-fly",
+      "name": "Plancha lateral con mancuerna y apertura posterior",
+      "equipment": "dumbbell",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/upper-back/dumbbell-side-plank-with-rear-fly.gif"
+    }
+  ],
+  "jack": [
+    {
+      "id": "abs/band-jack-knife-sit-up",
+      "slug": "band-jack-knife-sit-up",
+      "name": "Abdominal navaja con banda",
+      "equipment": "band",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/band-jack-knife-sit-up.gif"
+    },
+    {
+      "id": "abs/jackknife-sit-up",
+      "slug": "jackknife-sit-up",
+      "name": "Abdominal navaja",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/jackknife-sit-up.gif"
+    },
+    {
+      "id": "cardio/jack-burpee",
+      "slug": "jack-burpee",
+      "name": "Burpee, jack",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/jack-burpee.gif"
+    },
+    {
+      "id": "cardio/jack-jump-male",
+      "slug": "jack-jump-male",
+      "name": "Salto, jack",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/jack-jump-male.gif"
+    }
+  ],
+  "dip": [
+    {
+      "id": "lats/weighted-close-grip-chin-up-on-dip-cage",
+      "slug": "weighted-close-grip-chin-up-on-dip-cage",
+      "name": "Dominada supina con agarre cerrado y peso en jaula",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/lats/weighted-close-grip-chin-up-on-dip-cage.gif"
+    },
+    {
+      "id": "pectorals/assisted-chest-dip-kneeling",
+      "slug": "assisted-chest-dip-kneeling",
+      "name": "Fondo, de rodillas, asistido, pecho",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/assisted-chest-dip-kneeling.gif"
+    },
+    {
+      "id": "pectorals/assisted-wide-grip-chest-dip-kneeling",
+      "slug": "assisted-wide-grip-chest-dip-kneeling",
+      "name": "Fondo, de rodillas, con agarre ancho, asistido, pecho",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/assisted-wide-grip-chest-dip-kneeling.gif"
+    },
+    {
+      "id": "pectorals/chest-dip-on-dip-pull-up-cage",
+      "slug": "chest-dip-on-dip-pull-up-cage",
+      "name": "Fondos de pecho en jaula de dominadas",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/chest-dip-on-dip-pull-up-cage.gif"
+    },
+    {
+      "id": "pectorals/chest-dip-on-straight-bar",
+      "slug": "chest-dip-on-straight-bar",
+      "name": "Fondo con barra recta, pecho",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/chest-dip-on-straight-bar.gif"
+    },
+    {
+      "id": "pectorals/chest-dip",
+      "slug": "chest-dip",
+      "name": "Fondo, pecho",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/chest-dip.gif"
+    },
+    {
+      "id": "pectorals/korean-dips",
+      "slug": "korean-dips",
+      "name": "Fondos coreanos",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/korean-dips.gif"
+    },
+    {
+      "id": "pectorals/weighted-straight-bar-dip",
+      "slug": "weighted-straight-bar-dip",
+      "name": "Fondo con barra recta, con peso",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/weighted-straight-bar-dip.gif"
+    },
+    {
+      "id": "pectorals/wide-grip-chest-dip-on-high-parallel-bars",
+      "slug": "wide-grip-chest-dip-on-high-parallel-bars",
+      "name": "Fondo, con agarre ancho, alto, pecho parallel bars",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/wide-grip-chest-dip-on-high-parallel-bars.gif"
+    },
+    {
+      "id": "traps/scapula-dips",
+      "slug": "scapula-dips",
+      "name": "Fondos escapulares",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/traps/scapula-dips.gif"
+    },
+    {
+      "id": "triceps/assisted-triceps-dip-kneeling",
+      "slug": "assisted-triceps-dip-kneeling",
+      "name": "Fondo de tríceps, de rodillas, asistido",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/assisted-triceps-dip-kneeling.gif"
+    },
+    {
+      "id": "triceps/bench-dip-knees-bent",
+      "slug": "bench-dip-knees-bent",
+      "name": "Fondo en banco, rodillas doblado",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/bench-dip-knees-bent.gif"
+    },
+    {
+      "id": "triceps/bench-dip-on-floor",
+      "slug": "bench-dip-on-floor",
+      "name": "Fondo en banco, en el suelo",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/bench-dip-on-floor.gif"
+    },
+    {
+      "id": "triceps/elbow-dips",
+      "slug": "elbow-dips",
+      "name": "Fondos de codo",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/elbow-dips.gif"
+    },
+    {
+      "id": "triceps/exercise-ball-dip",
+      "slug": "exercise-ball-dip",
+      "name": "Fondo en fitball",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/exercise-ball-dip.gif"
+    },
+    {
+      "id": "triceps/impossible-dips",
+      "slug": "impossible-dips",
+      "name": "Fondos impossible",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/impossible-dips.gif"
+    },
+    {
+      "id": "triceps/lever-overhand-triceps-dip",
+      "slug": "lever-overhand-triceps-dip",
+      "name": "Fondo de tríceps en máquina, overhand",
+      "equipment": "lever",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/lever-overhand-triceps-dip.gif"
+    },
+    {
+      "id": "triceps/lever-seated-dip",
+      "slug": "lever-seated-dip",
+      "name": "Fondo en máquina, sentado",
+      "equipment": "lever",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/lever-seated-dip.gif"
+    },
+    {
+      "id": "triceps/one-arm-dip",
+      "slug": "one-arm-dip",
+      "name": "Fondo, a una mano",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/one-arm-dip.gif"
+    },
+    {
+      "id": "triceps/reverse-dip",
+      "slug": "reverse-dip",
+      "name": "Fondo invertido",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/reverse-dip.gif"
+    },
+    {
+      "id": "triceps/ring-dips",
+      "slug": "ring-dips",
+      "name": "Fondos, ring",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/ring-dips.gif"
+    },
+    {
+      "id": "triceps/three-bench-dip",
+      "slug": "three-bench-dip",
+      "name": "Fondos entre tres bancos",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/three-bench-dip.gif"
+    },
+    {
+      "id": "triceps/triceps-dip-bench-leg",
+      "slug": "triceps-dip-bench-leg",
+      "name": "Fondo de tríceps, banco pierna",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/triceps-dip-bench-leg.gif"
+    },
+    {
+      "id": "triceps/triceps-dip-between-benches",
+      "slug": "triceps-dip-between-benches",
+      "name": "Fondos de tríceps entre bancos",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/triceps-dip-between-benches.gif"
+    },
+    {
+      "id": "triceps/triceps-dip",
+      "slug": "triceps-dip",
+      "name": "Fondo de tríceps",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/triceps-dip.gif"
+    },
+    {
+      "id": "triceps/triceps-dips-floor",
+      "slug": "triceps-dips-floor",
+      "name": "Fondos de tríceps en el suelo",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/triceps-dips-floor.gif"
+    },
+    {
+      "id": "triceps/weighted-bench-dip",
+      "slug": "weighted-bench-dip",
+      "name": "Fondo en banco, con peso",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/weighted-bench-dip.gif"
+    },
+    {
+      "id": "triceps/weighted-three-bench-dips",
+      "slug": "weighted-three-bench-dips",
+      "name": "Fondos entre tres bancos con peso",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/weighted-three-bench-dips.gif"
+    },
+    {
+      "id": "triceps/weighted-tricep-dips",
+      "slug": "weighted-tricep-dips",
+      "name": "Fondos de tríceps, con peso",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/weighted-tricep-dips.gif"
+    },
+    {
+      "id": "triceps/weighted-triceps-dip-on-high-parallel-bars",
+      "slug": "weighted-triceps-dip-on-high-parallel-bars",
+      "name": "Fondo de tríceps, con peso alto, parallel bars",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/weighted-triceps-dip-on-high-parallel-bars.gif"
+    }
+  ],
+  "climber": [
+    {
+      "id": "abs/bridge-mountain-climber-cross-body",
+      "slug": "bridge-mountain-climber-cross-body",
+      "name": "Escalador cruzado al cuerpo, puente",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/bridge-mountain-climber-cross-body.gif"
+    },
+    {
+      "id": "cardio/mountain-climber",
+      "slug": "mountain-climber",
+      "name": "Escalador",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/mountain-climber.gif"
+    }
+  ],
+  "stretch": [
+    {
+      "id": "abs/assisted-prone-rectus-femoris-stretch",
+      "slug": "assisted-prone-rectus-femoris-stretch",
+      "name": "Estiramiento tumbado boca abajo, asistido, rectus femoris",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/assisted-prone-rectus-femoris-stretch.gif"
+    },
+    {
+      "id": "adductors/assisted-side-lying-adductor-stretch",
+      "slug": "assisted-side-lying-adductor-stretch",
+      "name": "Estiramiento de aductores asistido, tumbado de lado",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/adductors/assisted-side-lying-adductor-stretch.gif"
+    },
+    {
+      "id": "calves/assisted-lying-calves-stretch",
+      "slug": "assisted-lying-calves-stretch",
+      "name": "Estiramiento, tumbado, asistido, gemelos",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/calves/assisted-lying-calves-stretch.gif"
+    },
+    {
+      "id": "calves/calf-push-stretch-with-hands-against-wall",
+      "slug": "calf-push-stretch-with-hands-against-wall",
+      "name": "Estiramiento de gemelo con manos en la pared",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/calves/calf-push-stretch-with-hands-against-wall.gif"
+    },
+    {
+      "id": "calves/calf-stretch-with-hands-against-wall",
+      "slug": "calf-stretch-with-hands-against-wall",
+      "name": "Estiramiento, con manos en la pared, gemelo",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/calves/calf-stretch-with-hands-against-wall.gif"
+    },
+    {
+      "id": "calves/calf-stretch-with-rope",
+      "slug": "calf-stretch-with-rope",
+      "name": "Estiramiento, con cuerda, gemelo",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/calves/calf-stretch-with-rope.gif"
+    },
+    {
+      "id": "calves/circles-knee-stretch",
+      "slug": "circles-knee-stretch",
+      "name": "Estiramiento, circles rodilla",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/calves/circles-knee-stretch.gif"
+    },
+    {
+      "id": "calves/peroneals-stretch",
+      "slug": "peroneals-stretch",
+      "name": "Estiramiento, peroneals",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/calves/peroneals-stretch.gif"
+    },
+    {
+      "id": "calves/posterior-tibialis-stretch",
+      "slug": "posterior-tibialis-stretch",
+      "name": "Estiramiento del tibial posterior",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/calves/posterior-tibialis-stretch.gif"
+    },
+    {
+      "id": "calves/seated-calf-stretch-male",
+      "slug": "seated-calf-stretch-male",
+      "name": "Estiramiento, sentado, gemelo",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/calves/seated-calf-stretch-male.gif"
+    },
+    {
+      "id": "calves/standing-calves-calf-stretch",
+      "slug": "standing-calves-calf-stretch",
+      "name": "Estiramiento, gemelos de pie, gemelo",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/calves/standing-calves-calf-stretch.gif"
+    },
+    {
+      "id": "delts/rear-deltoid-stretch",
+      "slug": "rear-deltoid-stretch",
+      "name": "Estiramiento de deltoides posterior",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/delts/rear-deltoid-stretch.gif"
+    },
+    {
+      "id": "forearms/side-wrist-pull-stretch",
+      "slug": "side-wrist-pull-stretch",
+      "name": "Estiramiento de muñeca lateral",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/forearms/side-wrist-pull-stretch.gif"
+    },
+    {
+      "id": "glutes/assisted-lying-glutes-stretch",
+      "slug": "assisted-lying-glutes-stretch",
+      "name": "Estiramiento, tumbado, asistido, glúteos",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/assisted-lying-glutes-stretch.gif"
+    },
+    {
+      "id": "glutes/assisted-lying-gluteus-and-piriformis-stretch",
+      "slug": "assisted-lying-gluteus-and-piriformis-stretch",
+      "name": "Estiramiento asistido de glúteos y piriforme, tumbado",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/assisted-lying-gluteus-and-piriformis-stretch.gif"
+    },
+    {
+      "id": "glutes/exercise-ball-hip-flexor-stretch",
+      "slug": "exercise-ball-hip-flexor-stretch",
+      "name": "Estiramiento en fitball, cadera flexor",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/exercise-ball-hip-flexor-stretch.gif"
+    },
+    {
+      "id": "glutes/iron-cross-stretch",
+      "slug": "iron-cross-stretch",
+      "name": "Estiramiento, iron cruzado",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/iron-cross-stretch.gif"
+    },
+    {
+      "id": "glutes/rocking-frog-stretch",
+      "slug": "rocking-frog-stretch",
+      "name": "Estiramiento, rocking frog",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/rocking-frog-stretch.gif"
+    },
+    {
+      "id": "glutes/roller-hip-lat-stretch",
+      "slug": "roller-hip-lat-stretch",
+      "name": "Estiramiento, roller cadera dorsal",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/roller-hip-lat-stretch.gif"
+    },
+    {
+      "id": "glutes/roller-hip-stretch",
+      "slug": "roller-hip-stretch",
+      "name": "Estiramiento, roller cadera",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/roller-hip-stretch.gif"
+    },
+    {
+      "id": "glutes/seated-glute-stretch",
+      "slug": "seated-glute-stretch",
+      "name": "Estiramiento, sentado, glúteo",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/seated-glute-stretch.gif"
+    },
+    {
+      "id": "glutes/seated-piriformis-stretch",
+      "slug": "seated-piriformis-stretch",
+      "name": "Estiramiento del piriforme, sentado",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/seated-piriformis-stretch.gif"
+    },
+    {
+      "id": "glutes/single-leg-bridge-with-outstretched-leg",
+      "slug": "single-leg-bridge-with-outstretched-leg",
+      "name": "Puente, a una pierna con extendida",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/single-leg-bridge-with-outstretched-leg.gif"
+    },
+    {
+      "id": "glutes/weighted-stretch-lunge",
+      "slug": "weighted-stretch-lunge",
+      "name": "Zancada en estiramiento con peso",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/weighted-stretch-lunge.gif"
+    },
+    {
+      "id": "hamstrings/exercise-ball-seated-hamstring-stretch",
+      "slug": "exercise-ball-seated-hamstring-stretch",
+      "name": "Estiramiento en fitball, sentado, isquiotibial",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/hamstrings/exercise-ball-seated-hamstring-stretch.gif"
+    },
+    {
+      "id": "hamstrings/hamstring-stretch",
+      "slug": "hamstring-stretch",
+      "name": "Estiramiento, isquiotibial",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/hamstrings/hamstring-stretch.gif"
+    },
+    {
+      "id": "hamstrings/leg-up-hamstring-stretch",
+      "slug": "leg-up-hamstring-stretch",
+      "name": "Estiramiento, pierna up isquiotibial",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/hamstrings/leg-up-hamstring-stretch.gif"
+    },
+    {
+      "id": "hamstrings/runners-stretch",
+      "slug": "runners-stretch",
+      "name": "Estiramiento, runners",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/hamstrings/runners-stretch.gif"
+    },
+    {
+      "id": "hamstrings/standing-hamstring-and-calf-stretch-with-strap",
+      "slug": "standing-hamstring-and-calf-stretch-with-strap",
+      "name": "Estiramiento, de pie, isquiotibial gemelo strap",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/hamstrings/standing-hamstring-and-calf-stretch-with-strap.gif"
+    },
+    {
+      "id": "hamstrings/world-greatest-stretch",
+      "slug": "world-greatest-stretch",
+      "name": "Estiramiento, world greatest",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/hamstrings/world-greatest-stretch.gif"
+    },
+    {
+      "id": "lats/back-pec-stretch",
+      "slug": "back-pec-stretch",
+      "name": "Estiramiento, espalda pectoral",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/lats/back-pec-stretch.gif"
+    },
+    {
+      "id": "lats/exercise-ball-lat-stretch",
+      "slug": "exercise-ball-lat-stretch",
+      "name": "Estiramiento en fitball, dorsal",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/lats/exercise-ball-lat-stretch.gif"
+    },
+    {
+      "id": "lats/exercise-ball-lower-back-stretch-pyramid",
+      "slug": "exercise-ball-lower-back-stretch-pyramid",
+      "name": "Estiramiento en fitball, inferior espalda pyramid",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/lats/exercise-ball-lower-back-stretch-pyramid.gif"
+    },
+    {
+      "id": "lats/exercise-ball-lying-side-lat-stretch",
+      "slug": "exercise-ball-lying-side-lat-stretch",
+      "name": "Estiramiento en fitball, tumbado lateral, dorsal",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/lats/exercise-ball-lying-side-lat-stretch.gif"
+    },
+    {
+      "id": "lats/kneeling-lat-stretch",
+      "slug": "kneeling-lat-stretch",
+      "name": "Estiramiento, de rodillas, dorsal",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/lats/kneeling-lat-stretch.gif"
+    },
+    {
+      "id": "lats/roller-side-lat-stretch",
+      "slug": "roller-side-lat-stretch",
+      "name": "Estiramiento, lateral, roller dorsal",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/lats/roller-side-lat-stretch.gif"
+    },
+    {
+      "id": "lats/seated-lower-back-stretch",
+      "slug": "seated-lower-back-stretch",
+      "name": "Estiramiento, sentado, inferior espalda",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/lats/seated-lower-back-stretch.gif"
+    },
+    {
+      "id": "lats/side-lying-floor-stretch",
+      "slug": "side-lying-floor-stretch",
+      "name": "Estiramiento, tumbado de lado, suelo",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/lats/side-lying-floor-stretch.gif"
+    },
+    {
+      "id": "lats/standing-lateral-stretch",
+      "slug": "standing-lateral-stretch",
+      "name": "Estiramiento, de pie, lateral",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/lats/standing-lateral-stretch.gif"
+    },
+    {
+      "id": "levator-scapulae/neck-side-stretch",
+      "slug": "neck-side-stretch",
+      "name": "Estiramiento, lateral, cuello",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/levator-scapulae/neck-side-stretch.gif"
+    },
+    {
+      "id": "levator-scapulae/side-push-neck-stretch",
+      "slug": "side-push-neck-stretch",
+      "name": "Estiramiento lateral del cuello",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/levator-scapulae/side-push-neck-stretch.gif"
+    },
+    {
+      "id": "pectorals/assisted-seated-pectoralis-major-stretch-with-stability-ball",
+      "slug": "assisted-seated-pectoralis-major-stretch-with-stability-ball",
+      "name": "Estiramiento en fitball, sentado, asistido, pectoralis major",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/assisted-seated-pectoralis-major-stretch-with-stability-ball.gif"
+    },
+    {
+      "id": "pectorals/behind-head-chest-stretch",
+      "slug": "behind-head-chest-stretch",
+      "name": "Estiramiento, tras la nuca, pecho",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/behind-head-chest-stretch.gif"
+    },
+    {
+      "id": "pectorals/chest-and-front-of-shoulder-stretch",
+      "slug": "chest-and-front-of-shoulder-stretch",
+      "name": "Estiramiento, frontal, pecho hombro",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/chest-and-front-of-shoulder-stretch.gif"
+    },
+    {
+      "id": "pectorals/chest-stretch-with-exercise-ball",
+      "slug": "chest-stretch-with-exercise-ball",
+      "name": "Estiramiento en fitball, pecho",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/chest-stretch-with-exercise-ball.gif"
+    },
+    {
+      "id": "pectorals/dynamic-chest-stretch-male",
+      "slug": "dynamic-chest-stretch-male",
+      "name": "Estiramiento dinámico de pecho",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/dynamic-chest-stretch-male.gif"
+    },
+    {
+      "id": "quads/all-fours-squad-stretch",
+      "slug": "all-fours-squad-stretch",
+      "name": "Estiramiento de cuádriceps en cuadrupedia",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/all-fours-squad-stretch.gif"
+    },
+    {
+      "id": "quads/assisted-prone-lying-quads-stretch",
+      "slug": "assisted-prone-lying-quads-stretch",
+      "name": "Estiramiento tumbado boca abajo, asistido, cuádriceps",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/assisted-prone-lying-quads-stretch.gif"
+    },
+    {
+      "id": "quads/chair-leg-extended-stretch",
+      "slug": "chair-leg-extended-stretch",
+      "name": "Estiramiento, silla pierna extended",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/chair-leg-extended-stretch.gif"
+    },
+    {
+      "id": "quads/intermediate-hip-flexor-and-quad-stretch",
+      "slug": "intermediate-hip-flexor-and-quad-stretch",
+      "name": "Estiramiento, intermediate cadera flexor cuádriceps",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/intermediate-hip-flexor-and-quad-stretch.gif"
+    },
+    {
+      "id": "quads/lying-side-quads-stretch",
+      "slug": "lying-side-quads-stretch",
+      "name": "Estiramiento, tumbado lateral, cuádriceps",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/lying-side-quads-stretch.gif"
+    },
+    {
+      "id": "spine/roller-back-stretch",
+      "slug": "roller-back-stretch",
+      "name": "Estiramiento, roller espalda",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/spine/roller-back-stretch.gif"
+    },
+    {
+      "id": "spine/spine-stretch",
+      "slug": "spine-stretch",
+      "name": "Estiramiento, columna",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/spine/spine-stretch.gif"
+    },
+    {
+      "id": "triceps/exercise-ball-seated-triceps-stretch",
+      "slug": "exercise-ball-seated-triceps-stretch",
+      "name": "Estiramiento en fitball, sentado, tríceps",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/exercise-ball-seated-triceps-stretch.gif"
+    },
+    {
+      "id": "triceps/overhead-triceps-stretch",
+      "slug": "overhead-triceps-stretch",
+      "name": "Estiramiento sobre la cabeza, tríceps",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/overhead-triceps-stretch.gif"
+    },
+    {
+      "id": "triceps/triceps-stretch",
+      "slug": "triceps-stretch",
+      "name": "Estiramiento, tríceps",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/triceps-stretch.gif"
+    },
+    {
+      "id": "upper-back/upper-back-stretch",
+      "slug": "upper-back-stretch",
+      "name": "Estiramiento, superior espalda",
+      "equipment": "bodyweight",
+      "gifUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/upper-back/upper-back-stretch.gif"
+    }
+  ]
+}
